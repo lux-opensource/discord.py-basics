@@ -10,11 +10,11 @@ use the snip codes to add more into here or you personal discord bot.
 
 # Links
 
-> Discord Developer Portal:https://discord.com/developers/docs/intro
-> Discord.py Docs: https://discordpy.readthedocs.io/
-> Discord Permissions: https://discordpy.readthedocs.io/en/latest/api.html#discord.Permissions
-> Python: https://www.python.org/downloads/
-> My Discord: https://discord.gg/jQEeshZ2
+> - Discord Developer Portal:https://discord.com/developers/docs/intro
+> - Discord.py Docs: https://discordpy.readthedocs.io/
+> - Discord Permissions: https://discordpy.readthedocs.io/en/latest/api.html#discord.Permissions
+> - Python: https://www.python.org/downloads/
+> - My Discord: https://discord.gg/jQEeshZ2
 
 # Requirements
 - Python
