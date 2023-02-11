@@ -1,12 +1,12 @@
 # discord.py-basics
 
-⛔ lux-opensource Github. Created this masterpiece. Please do not sell this source. You are allowed to share, and use, and edit.
+> ⛔ lux-opensource Github. Created this masterpiece. Please do not sell this source. You are allowed to share, and use, and edit.
 
-📄 Some basic information: All the main files in folders are snip codes, and are not actually full discord bots. Here in the
+> 📄 Some basic information: All the main files in folders are snip codes, and are not actually full discord bots. Here in the
 basic template.py file you can see how an actual discord bot is coded fully. With some basic commands/events. You should only
 use the snip codes to add more into here or you personal discord bot. 
 
-❓ (The snip codes will give you a error that 'bot' is not found, because it is not a full discord bot, just discord.py events)
+> ❓ (The snip codes will give you a error that 'bot' is not found, because it is not a full discord bot, just discord.py events)
 
 # Links
 
