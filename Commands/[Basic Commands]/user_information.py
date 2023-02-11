@@ -1,0 +1,11 @@
+@bot.command()
+async def user(ctx, member : discord.Member):
+            embed = discord.Embed(title=f"Discord User Information : {member.name}", colour=0x0ffff)  
+            embed.add_field(name="Discord Name:", value=f" {member.mention}", inline=True)
+            embed.add_field(name="Discord ID:", value=f" ```{member.id}```", inline=True)
+            embed.add_field(name="Discord Bot?", value="```True```" if member.bot else "```False```", inline=True)
+            embed.add_field(name="Top Role:", value=f"```{member.top_role.name}```", inline=True)
+            embed.add_field(name="Role Amount:", value=f"```{len(member.roles)}```", inline=True)
+            embed.add_field(name="Joined Server:", value=f'```{member.joined_at.strftime("%d/%m/%Y %H:%M:%S")}```', inline=False)
+            embed.add_field(name="Account Created:", value=f'```{member.created_at.strftime("%d/%m/%Y %H:%M:%S")}```', inline=False)
+            await ctx.send(embed=embed)   
